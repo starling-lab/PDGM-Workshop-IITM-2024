@@ -1,4 +1,4 @@
-![image](https://github.com/starling-lab/PDGM-Workshop-IITM-2024/assets/30686838/a8647e0b-32d4-4e80-b8fb-50f6bfcecfe7)# Probabilistic Deep Generative Models Workshop
+# Probabilistic Deep Generative Models Workshop
 
 ![Poster](assets/poster.png)
 
