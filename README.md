@@ -37,8 +37,8 @@ This workshop aims to introduce participants to Deep and Tractable Probabilistic
 - Applications of Deep Tractable Probabilistic Models
 
 ## Resources
-- [Slides](https://cometmail-my.sharepoint.com/:p:/g/personal/sxs220047_utdallas_edu/EdA90yT2OO1FgI2C09ADHa0BSyPfOqb3hM74IctCwm5qRA?e=14UNcs)
-- [Code Demos]
+- [Slides](https://cometmail-my.sharepoint.com/:p:/g/personal/sxs220047_utdallas_edu/EdA90yT2OO1FgI2C09ADHa0BXk8p-9-goPruqeULa2PrVA?e=xUxbbj&CID=63079e5b-49a3-3fd8-41e6-88513c5789a1)
+- Hands-On Code Demos
   - Day 2: [Building Simple Probabilistic Circuicts with SPFlow](https://bit.ly/pdgm-1)
   - Day 2: [Einsum Networks: Deep Tensorized PCs in Pytorch](https://bit.ly/pdgm-2)
   - Day 3: [Implementing a simple Normalizing Flow](https://bit.ly/pdgm-3)
