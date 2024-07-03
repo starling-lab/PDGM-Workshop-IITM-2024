@@ -1,4 +1,4 @@
-# Probabilistic Deep Generative Models Workshop
+![image](https://github.com/starling-lab/PDGM-Workshop-IITM-2024/assets/30686838/a8647e0b-32d4-4e80-b8fb-50f6bfcecfe7)# Probabilistic Deep Generative Models Workshop
 
 ![Poster](assets/poster.png)
 
@@ -37,8 +37,12 @@ This workshop aims to introduce participants to Deep and Tractable Probabilistic
 - Applications of Deep Tractable Probabilistic Models
 
 ## Resources
-- [Slides](./slides)
-- [Demos](./demos)
+- [Slides](https://cometmail-my.sharepoint.com/:p:/g/personal/sxs220047_utdallas_edu/EdA90yT2OO1FgI2C09ADHa0BSyPfOqb3hM74IctCwm5qRA?e=14UNcs)
+- [Code Demos]
+  - Day 2: [Building Simple Probabilistic Circuicts with SPFlow](https://bit.ly/pdgm-1)
+  - Day 2: [Einsum Networks: Deep Tensorized PCs in Pytorch](https://bit.ly/pdgm-2)
+  - Day 3: [Implementing a simple Normalizing Flow](https://bit.ly/pdgm-3)
+  - Day 3: [Demo of Probabilistic Flow Circuits](https://bit.ly/pdgm-4)
 
 ## Contact
 For any queries, please contact the organizers:
